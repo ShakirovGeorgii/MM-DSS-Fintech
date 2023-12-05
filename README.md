@@ -1,4 +1,6 @@
-# X-матрицу
+# X-матрица
+
+ссылка: https://docs.google.com/spreadsheets/d/1nQhAueRwx0hm_FlgypDiJnHRa4ITwrl4/edit?usp=drivesdk&ouid=102955173703028435614&rtpof=true&sd=true
 
 Задачи:
 Построим X-матрицу, соблюдая следующие условия:
