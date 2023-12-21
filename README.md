@@ -12,3 +12,5 @@
 
 продемонстрировать работу программы на ранее сформулированной задаче.
 
+
+colab: https://colab.research.google.com/drive/1xqndW0IKKJ_JXLsLN4U0B0MhEHmQQPkU#scrollTo=MVcW84GKx_ln
